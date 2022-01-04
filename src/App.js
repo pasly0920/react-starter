@@ -1,6 +1,3 @@
-import "./App.css";
-import Movie from "./components/Movie";
-import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
